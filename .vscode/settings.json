@@ -1,0 +1,24 @@
+{
+  "editor.minimap.enabled": false,
+  "editor.overviewRulerBorder": false,
+  "editor.lineHeight": 32,
+  "editor.tabCompletion": "on",
+  "[markdown]": {
+    "editor.quickSuggestions": true,
+    "editor.tabCompletion": "on"
+  },
+  "git.enableSmartCommit": true,
+  "git.postCommitCommand": "sync",
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  "foam.openDailyNote.directory": "journal",
+  "editor.fontFamily": "iA Writer Duospace",
+  "zenMode.centerLayout": false,
+  // Command for the Auto Run Command Extension
+  "auto-run-command.rules": [
+    {
+      "condition": "hasFile: .vscode/foam.json",
+      "command": "foam-vscode.open-daily-note",
+      "message": "✨ Daily note opened "
+    }
+  ]
+}

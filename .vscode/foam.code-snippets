@@ -1,0 +1,11 @@
+// See https://code.visualstudio.com/docs/editor/userdefinedsnippets
+// for the documentation about snippets
+
+{
+  "journal": {
+    "scope": "markdown",
+    "prefix": "journal",
+    "body": ["## Highlight", "## Things you did:"],
+    "description": "Bullet Journal Template"
+  }
+}
