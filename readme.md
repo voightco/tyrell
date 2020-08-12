@@ -29,6 +29,8 @@ In order for this Foam Workspace to work you need to install all the recommended
 
 For you workspace to look exactly like the one pictured in the banner; the color theme used is _Material Community Theme_ and _iA Writer Duospace_.
 
+![VS Code interface with Foam](./docs/vscode-interface.png)
+
 ## Features
 
 - Includes a `settings.json` with writing optimized settings and removes most 'clutter' from the VS Code interface
