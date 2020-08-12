@@ -22,9 +22,24 @@
 
     // Draw.io integration
     "hediet.vscode-drawio",
-    
+
     // Expands regular links into Markdown Links
-    "skn0tt.markdown-link-expander"
+    "skn0tt.markdown-link-expander",
+
+    // Paste images from clipboard straight into markdown
+    "mushan.vscode-paste-image",
+
+    // Find gender favouring, race related, religion inconsiderate or other unequal phrasing
+    "shinnn.alex",
+
+    // Code spell checker
+    "streetsidesoftware.code-spell-checker",
+
+    // Shows image preview in the gutter and on hover
+    "kisstkondoros.vscode-gutter-preview",
+
+    // Markdown Word Count
+    "ms-vscode.wordcount"
 
     // See http://go.microsoft.com/fwlink/?LinkId=827846
     // for the documentation about the extensions.json format

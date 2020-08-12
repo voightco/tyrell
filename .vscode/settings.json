@@ -1,18 +1,57 @@
 {
+  // Disable / enable VSCode UI components
   "editor.minimap.enabled": false,
   "editor.overviewRulerBorder": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "explorer.confirmDelete": false,
+  "breadcrumbs.enabled": true,
+  "explorer.openEditors.visible": 0,
+  "explorer.confirmDragAndDrop": false,
+
+  // Typography settings
+  "window.zoomLevel": 1,
+  "editor.fontSize": 21,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
   "editor.lineHeight": 32,
   "editor.tabCompletion": "on",
+  "editor.fontFamily": "iA Writer Duospace",
+  "editor.cursorWidth": 3,
+  "editor.wordWrap": "on",
+  "editor.trimAutoWhitespace": false,
+
   "[markdown]": {
     "editor.quickSuggestions": true,
     "editor.tabCompletion": "on"
   },
+  "markdown.preview.fontSize": 18,
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
-  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  "git.confirmSync": false,
+  "vscodeMarkdownNotes.nteCompletionConvention": "noExtension",
   "foam.openDailyNote.directory": "journal",
-  "editor.fontFamily": "iA Writer Duospace",
+
   "zenMode.centerLayout": false,
+
+  // Some custom styles for the Material Theme
+  "workbench.colorTheme": "Community Material Theme High Contrast",
+  "workbench.colorCustomizations": {
+    "[Community Material Theme High Contrast]": {
+      "editor.wordHighlightBackground": "#1f2d30",
+      "editor.wordHighlightBorder": "#1f2d30",
+      "editor.wordHighlightStrongBackground": "#1f2d30",
+      "editor.wordHighlightStrongBorder": "#1f2d30",
+      "editorBracketMatch.border": "#1f2d30",
+      "editorBracketMatch.background": "#1f2d30",
+      "scrollbarSlider.background": "#ffffff22",
+      "editorOverviewRuler.bracketMatchForeground": "#0000",
+      "editorOverviewRuler.errorForeground": "#0000",
+      "editorOverviewRuler.warningForeground": "#0000",
+      "editorOverviewRuler.infoForeground": "#0000",
+      "editor.background": "#141e20"
+    }
+  },
+
   // Command for the Auto Run Command Extension
   "auto-run-command.rules": [
     {
@@ -20,5 +59,19 @@
       "command": "foam-vscode.open-daily-note",
       "message": "✨ Daily note opened "
     }
-  ]
+  ],
+
+  // Hide Status Bar options
+  "workbench.statusBar.feedback.visible": false,
+
+  // Disable some GitLens menu's
+  "gitlens.currentLine.enabled": false,
+  "gitlens.menus": {
+    "editor": false,
+    "editorGroup": false,
+    "editorTab": false,
+    "explorer": false,
+    "scmGroup": false,
+    "scmItem": false
+  }
 }
