@@ -34,7 +34,7 @@
   "zenMode.centerLayout": false,
 
   // Some custom styles for the Material Theme
-  "workbench.colorTheme": "Community Material Theme High Contrast",
+  "workbench.colorTheme": "Night Owl Light",
   "workbench.colorCustomizations": {
     "[Community Material Theme High Contrast]": {
       "editor.wordHighlightBackground": "#1f2d30",
