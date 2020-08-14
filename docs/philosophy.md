@@ -5,25 +5,28 @@
   - [Personal problems](#personal-problems)
   - [Tools for writing](#tools-for-writing)
   - [Foam philosophy](#foam-philosophy)
+  - [Zettelkasten](#zettelkasten)
+  - [Writing](#writing)
   - [Own your content](#own-your-content)
   - [Alternatives](#alternatives)
   - [Further reading](#further-reading)
 
 **Writing is thinking.** When you write you organize your ideas more effectively and it will help you have better thoughts and solve more difficult problems. As the frequency of information increases, the world becomes noisier and noisier.
 
+
+
 ## Taking notes
 
 Your mind is for having ideas, not storing them. By taking notes on everything you 'build a second brain'; you organize (and store) your knowledge outside of your brain.
-
->
 
 When you take notes on something you're reading, you're actually building the logical structure of the text's argument into the notation.
 
 > With everything you read, ask the question -- what do I want to remember about this?
 
-You need a way to store the thing you've read and later want to get back to.
+You need a way to store the thing you've read and later want to get back to. You need a system to retain what you read. 
 
 There is no point in spending time 'filing' away notes, ordering them in groups etc. You just want to add tags and search for keywords.
+
 
 ## Personal problems
 
@@ -35,7 +38,7 @@ Some problems I'm personally having when taking notes and how this note-taking s
 
 3. This system helped me to _journal more consistently_. Make it into a habit with a pre-defined template.
 
-4. I jot things down without _properly linking to the original resource_. When I come back to an idea I'm not sure where I got it from and what the original source was.
+4. I jot things down without _properly linking to the original resource_. When I come back to an idea I'm not sure where I got it from and what the original source was. 
 
 ## Tools for writing
 
@@ -58,6 +61,27 @@ Foam is a personal knowledge management and sharing system inspired by Roam Rese
 This repository is a further enhancement on the [foam-template project](https://github.com/foambubble/foam-template) but also includes some principles on note-taking.
 
 > Foam doesn’t have features in the traditional sense. Out of the box, you have access to all features of VS Code and all the Recommended Extensions you choose to install, but it’s up to you to discover what you can do with it!
+
+## Zettelkasten
+The Zettelkasten Method is not a thing; it are guidelines for knowledge management.
+
+* Don't create categories; 
+  > https://zettelkasten.de/posts/no-categories/.
+* Create manual links (don't rely on search only)
+  > https://zettelkasten.de/posts/search-alone-is-not-enough/
+* Expand on existing notes instead of creating new ones
+  > https://zettelkasten.de/posts/when-start-new-note/
+* Write notes in your own voice and link to sources
+  > https://zettelkasten.de/posts/dont-rely-on-source-have-faith-in-yourself/
+* Write in outlines
+  > https://zettelkasten.de/posts/how-i-use-outlines-to-write-any-text/
+* Principle of atomicity
+  > Limit its content to that single topic. https://zettelkasten.de/posts/create-zettel-from-reading-notes/
+* Principle of Connectivity 
+  > It is not important where you store a Zettel as long as you can reference it from every other point. https://zettelkasten.de/posts/luhmann-folgezettel-truth/
+  
+## Writing
+Write shitty first drafts. Get your first draft out there as soon as possible.
 
 ## Own your content
 
