@@ -6,7 +6,7 @@
   - [Tools for writing](#tools-for-writing)
   - [Foam philosophy](#foam-philosophy)
   - [Zettelkasten](#zettelkasten)
-  - [Writing](#writing)
+  - [Knowledge management](#knowledge-management)
   - [Own your content](#own-your-content)
   - [Alternatives](#alternatives)
   - [Further reading](#further-reading)
@@ -25,7 +25,7 @@ When you take notes on something you're reading, you're actually building the lo
 
 You need a way to store the thing you've read and later want to get back to. You need a system to retain what you read. 
 
-There is no point in spending time 'filing' away notes, ordering them in groups etc. You just want to add tags and search for keywords.
+There is no point in spending time 'filing' away notes, ordering them in groups etc. You just want to add tags and search for keywords. 
 
 
 ## Personal problems
@@ -80,8 +80,55 @@ The Zettelkasten Method is not a thing; it are guidelines for knowledge manageme
 * Principle of Connectivity 
   > It is not important where you store a Zettel as long as you can reference it from every other point. https://zettelkasten.de/posts/luhmann-folgezettel-truth/
   
-## Writing
-Write shitty first drafts. Get your first draft out there as soon as possible.
+## Knowledge management
+
+The building blocks of a Zettelkasten are the inbox, the note archive, and the reference manager.
+
+While your note archive will most likely be private, you’re going to write and publish articles, books, or blog posts. In your publications, you put a frame around a part of your web of knowledge, and make it accessible so others can benefit from what you’ve learned. 
+
+Translate stuff from the outside world into something your system can understand. A book, physically, cannot be part of your Zettelkasten. Your personal library isn’t part of it. A representation of a book will fit in nicely, though.
+
+This is the challenge a Zettelkasten puts up: You have to be able to understand what you have written up to a life time. Don’t just expect that you can understand yourself in a couple of years.
+
+ Don’t prepare. Don’t invent categories. Just let it come.
+
+Creating categories is a top-down process. You start with the structure and then file the material away. Notes will have to fit the structure. If they don’t, there’ll have to be a compromise.
+
+ Links are hand-picked references. The idea that makes you create a link is unique, and so is the resulting link.
+ 
+ ‘to know about something’ isn’t the same as ‘knowing something’. Bookmarking a web page is satisfying because we get rid of the fear of losing access to the information.
+ 
+ Taking notes thoroughly means you can rely on your notes alone and rarely need to look up a detail in the original text.
+ 
+ Reading alone won’t suffice: we have to create notes, too, to create real, sustainable knowledge.
+ 
+ * The Process improves Thinking.
+ * The Process strengthens Memory.
+
+Note to self; have a good note taking system.
+
+You don't need to publish to start with a good note taking system. Note-taking can be useful personal and private.
+
+Spark file; a file where you write down all your new ideas.
+
+Pick a moment where you will read trough your notes.
+
+Zettelkasten; technique to organize personal knowledge. (personal wiki, extended mind, second brain)
+
+Move way beyond input/output-based note-taking.  You should be able to communicate with your system of notes.
+
+Do not sort your stuff. Don’t waste time making up categories.
+
+‘Reading’ isn’t always ‘learning’. Reading notes consist of your interpretation of other people’s thoughts
+
+Take notes in your own voice, don't thrive for 100% coverage. Trough reading you need to make sense of the text in your own voice (thereby creating information). Before I still had to read the texts again and again to re-claim the information I did already discover the first time. You need to stop collecting. This produces far better results, because a note you wrote yourself is tailored to your own patterns of thought, making it easier to work with it in the future.
+
+Texts by Themselves are Worthless – it’s Your job to Create Information from a Source.
+
+Coverage: apply efficient reading techniques to drill through texts quickly.
+Practice: take notes to see whether you understood what the text contains.
+Insight: integrate the notes into your note archive to create lasting knowledge. Using your own words will make the information more accessible to a Future You.
+
 
 ## Own your content
 
